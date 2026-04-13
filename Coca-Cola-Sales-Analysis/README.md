@@ -12,5 +12,10 @@ To analyze sales data and identify key trends, patterns, and revenue drivers.
 - Mid-priced products generated the highest revenue
 - Sales trends varied across locations
 
+## 💡 Business Recommendations
+- Focus on high-performing regions for expansion
+- Increase promotion of mid-priced products
+- Optimize underperforming locations
+
 ## 📊 Dashboard
-(Screenshot will be added here)
+![Dashboard](dashboard.png)
