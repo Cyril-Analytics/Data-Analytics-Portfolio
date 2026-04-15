@@ -25,4 +25,4 @@ I'm a Data Analyst passionate about turning data into meaningful insights.
 - Data cleaning, analysis, and visualization
 
 ## 📫 Contact Me
-- LinkedIn: (we'll add this next)
+
